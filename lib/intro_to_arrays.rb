@@ -8,3 +8,8 @@ def array_with_two_elements
 end
 
 def indexing(array)
+  array[0]
+end
+
+
+
